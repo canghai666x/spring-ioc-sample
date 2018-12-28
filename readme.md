@@ -1,12 +1,17 @@
 # Spring IOC基础测试
 
-## 考察点
+## 考察点和要求
 
 - spring ioc 基础
 
 - spring bean 注解
 
 - Java继承多态
+
+- 两个小时内完成,做多少算多少
+
+- 代码提交git fork之后提交到自己的仓库
+
 
 ## 验收标准
 
@@ -17,6 +22,7 @@
 - 注意: {crawlerName} 替换成对应的爬虫类名,如: BaiduCrawler/Googlerawler/BingCrawler
 
 - 调用不同的Crawler时不允许使用if else或者switch case语句,请参考Ioc/spring容器相关资料实现
+
 
 ## 其他说明
 
