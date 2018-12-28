@@ -1,5 +1,8 @@
 package sample.crawler;
 
+import org.springframework.stereotype.Service;
+
+@Service("BaiduCrawler")
 public class BaiduCrawler implements ICrawler {
 
     @Override

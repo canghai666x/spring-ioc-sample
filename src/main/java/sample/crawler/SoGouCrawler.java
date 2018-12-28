@@ -2,8 +2,8 @@ package sample.crawler;
 
 import org.springframework.stereotype.Service;
 
-@Service("GoogleCrawler")
-public class GoogleCrawler implements ICrawler {
+@Service("SogouCrawler")
+public class SoGouCrawler implements ICrawler{
 
     @Override
     public String run() {
